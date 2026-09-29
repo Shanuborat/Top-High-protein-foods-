@@ -82,4 +82,7 @@ h1 {
     .grid :hover{
         transform: none;
     }
+    h1{
+        font-size: 40px;
+    }
 }
