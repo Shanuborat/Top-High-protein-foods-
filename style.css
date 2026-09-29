@@ -11,7 +11,7 @@ h1 {
     align-items: center;
     background-color: rgb(198, 115, 0);
     font-weight: bold;
-    font-size: 71px;
+    font-size: 70px;
     border: none;
     max-width: 100%;
     border-radius: 20px;
@@ -83,6 +83,6 @@ h1 {
         transform: none;
     }
     h1{
-        font-size: 40px;
+        font-size: 50px;
     }
 }
