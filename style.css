@@ -82,6 +82,9 @@ h1 {
     .grid :hover{
         transform: none;
     }
+}
+@media screen and (width:720px) {
+    
     h1{
         font-size: 50px;
     }
