@@ -10,7 +10,7 @@ h1{
     justify-content: center;
     align-items: center;
     background-color:rgb(198, 115, 0);
-    font-weight: 200;
+    font-weight:bold;
     font-size: 70px;
     border:none;
     max-width: 100%;
@@ -49,6 +49,7 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     text-align: center;
+    font-weight: bold;
 }
 .image img {
     max-width: 80%;
